@@ -1,5 +1,6 @@
 # Server-Controller
 Basic poopnet edit with some extra useful features.
+All credits go to sussy baka / original poopnet creator
 
 Usage:
 - Edit client/configs.go and server/configs.go (server ip)
